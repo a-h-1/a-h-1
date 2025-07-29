@@ -20,11 +20,11 @@
 <br clear="both">
 
 <p align="center">I am passionate about solving real-world problems through software💻, data📊, and engineering💡.</p>
-<p align="center">💻Skilled in Python, Javascript, HTML.</p>
-<p align="center">🧠Enjoy thinking critically and logically.</p>
-<p align="center">🔁Implements iterative improvement.</p>
-<p align="center">🚀Pursuing full-stack & AI expertise.</p>
-<p align="center">Below you will find my language list along with the numerous ways to reach out to me.📲</p>
+<p align="center">💻I'm skilled in Python, Javascript, HTML.</p>
+<p align="center">🧠I enjoy thinking critically and logically.</p>
+<p align="center">🔁I implement iterative improvement.</p>
+<p align="center">🚀I'm pursuing full-stack & AI expertise.</p>
+<p align="center">Below you will find my language list📃 along with the numerous ways to reach out to me.📲</p>
 
 ###
 
