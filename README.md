@@ -19,7 +19,13 @@
 
 <br clear="both">
 
-<p align="center">Passionate about solving real-world problems through software💻, data📊, and engineering💡.</p>
+<p align="center">I am passionate about solving real-world problems through software💻, data📊, and engineering💡.</p>
+<p align="center">💻Skilled in Python, Javascript, HTML.</p>
+<p align="center">🧠Critical Thinker.</p>
+<p align="center">🔁Implements iterative improvement.</p>
+<p align="center">🚀Pursuing full-stack & AI expertise.</p>
+<p align="center"></p>
+<p align="center">Below you will find my language list along with the numerous ways to reach out to me.📲</p>
 
 ###
 
