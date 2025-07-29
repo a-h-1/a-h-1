@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center">💻 Computer Engineer | Backend & AI Enthusiast | Python • Java • C • SQL • Web<br>Focused on Writing Scalable Code, Solving Real Problems, and Exploring AI Solutions</h2>
+<h2 align="center">🛠️ Ahnaf H. 💻</h2>
 
 ###
 
