@@ -1,3 +1,15 @@
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app?username=a-h-1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+    </td>
+    <td>
+      <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpwOWR5MTN5eDhuMWU3NWZoYzBuNmRoczdhcHZqYnp4YnhqOTdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
+
 <br clear="both">
 
 <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpwOWR5MTN5eDhuMWU3NWZoYzBuNmRoczdhcHZqYnp4YnhqOTdudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
