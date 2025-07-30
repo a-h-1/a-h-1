@@ -1,3 +1,4 @@
+<!--- Trophies + Gif --->
 <br clear="both">
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -12,11 +13,11 @@
 </table>
 
 ###
-
-<h2 align="center">🛠️ Ahnaf H. 💻</h2>
+<!--- Title --->
+<h2 align="center">🛠️ Ahnaf Hasan 💻</h2>
 
 ###
-
+<!--- About --->
 <br clear="both">
 
 <p align="center">🙂I am passionate about solving real-world problems through software💻, data📊, and engineering💡.</p>
@@ -27,7 +28,7 @@
 <p align="left">🖥️Languages Worked With📃</p>
 
 ###
-
+<!--- Language List --->
 <br clear="both">
 
 <div align="left">
@@ -53,15 +54,21 @@
 </div>
 
 ###
-
+<!--- Contact Info --->
 <p>👇Contact Me📲</p>
 
 <br clear="both">
 
 <div align="left">
+  <!--- Linked In --->
+  <a href="https://www.linkedin.com/in/ahnaf-h-2ab821270" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo"  />
+  </a>
+  <!--- Gmail --->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45" alt="gmail logo"  />
+  <!--- Twitter --->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="45" alt="twitter logo"  />
+  <!--- Instagram --->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="45" alt="instagram logo"  />
 </div>
 
