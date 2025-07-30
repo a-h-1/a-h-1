@@ -24,7 +24,7 @@
 <p align="center">🧠I enjoy thinking critically and logically.</p>
 <p align="center">🔁I implement iterative improvement.</p>
 <p align="center">🚀I'm pursuing full-stack & AI expertise.</p>
-<p align="center">👇Below this text you will find my language list 📃 and below the list are the numerous ways to reach out to me.📲</p>
+<p align="center">🖥️Languages Worked With📃</p>
 
 ###
 
@@ -53,6 +53,8 @@
 </div>
 
 ###
+
+<p>👇Contact Me📲</p>
 
 <br clear="both">
 
