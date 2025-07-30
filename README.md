@@ -60,16 +60,22 @@
 <br clear="both">
 
 <div align="left">
+  
   <!--- Linked In --->
   <a href="https://www.linkedin.com/in/ahnaf-h-2ab821270" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo"  />
   </a>
+  
   <!--- Gmail --->
+  <a href="mailto:hasanahnaf1@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45" alt="gmail logo"  />
-  <!--- Twitter --->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="45" alt="twitter logo"  />
+  <a/>
+  
   <!--- Instagram --->
+  <a href="https://www.instagram.com/pro.in.software" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="45" alt="instagram logo"  />
+  <a/>
+    
 </div>
 
 ###
